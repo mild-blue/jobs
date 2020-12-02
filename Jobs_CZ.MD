@@ -6,7 +6,7 @@ poptáváme. Není ale nijak restriktivní, proto se nám ozvěte, i když jste 
 
 HR žvásty o dynamickém kolektivu, motivujícím platovém ohodnocení, firemních benefitech apod. si klidně přečtěte 
 v inzerátech našich konkurentů. O nás se více dozvíte na našem [webu](https://mild.blue/), některé projekty jsou veřejně dostupné 
-zde na [Githubu](https://github.com/mild-blue) a případně nám rovnou napište na [jobs@mild.blue](jobs@mild.blue). 
+zde na [Githubu](https://github.com/mild-blue) a případně nám rovnou napište na [jobs@mild.blue](mailto:jobs@mild.blue). 
 
 ## Frontend developer
 ### Náplň práce
