@@ -22,30 +22,26 @@ zde na [Githubu](https://github.com/mild-blue) a případně nám rovnou napišt
 * Cokoliv dalšího, co dává smysl (React, Vue, Svelte, …)
 
 ### Koho hledáme
-Tahle pozice není vhodná pro úplného juniora, ale jinak nemá žádná omezení. Částečný úvazek rovněž není problém.
+Tahle pozice není vhodná pro úplného juniora, ale jinak nemá žádná omezení. Očekáváme, že začnete nejdříve na částečný úvazek, 
+ale práce máme hodně, takže se nebráníme ani fulltime.
   
 
 ## Biomedicínský vývojář
-### Náplň práce a Technologie
-* Vývoj mobilních aplikací (ionic framework, kotlin)
-* Vývoj backendu zdravotnických aplikací (python, kotlin, doménová znalost medicíny a bioinženýrství)
-* Příprava dat a podkladových materiálů pro vědecké publikace 
+### Náplň práce
+* Kombinace znalostí z programování a (bio)medicíny v souvislosti s:
+    * vývojem mobilních aplikací 
+    * vývojem backendu zdravotnických aplikací
+    * přípravou dat a podkladových materiálů pro vědecké publikace 
 
+### Technologie
+* Python
+* Kotlin  
+* Ionic framework
+* EKG, zobrazovací metody, imunogenetika
 
 ### Koho hledáme
-Někoho s podobným skillsetem jako mají lidé z biomedicínského inženýrství na FEL ČVUT. Někoho koho zajíma medicína 
-a zároveň dokáže programovat. Aktuálně na částečný úvazek. Práce ale máme hodně, takže je potenicál i na víc.
-## Backend vývojář - junior
-### Náplň práce a Technologie
-
-### Koho hledáme
-Schopného backend vývojáře, který je ochotný se rychle učit a bude mít schopnost zvládnout psát kvalitní produkční kód
-a řešit databáze a vše okolo. 
-
-## Marketing / Sociální sítě / Administrativa
-### Koho hledáme
-Někoho kdo bude nadšeně nám schopen pomáhat s tím, že jsme zavaleni administrativou (smlouvy, komunikace, emaily), 
-pomůže nám se starat o sociální sítě, hiring, pomůže nám psát texty a ideálně nám pomůže i otestovat ty věci, co vyvíjíme.
-Aktuálně očekáváme náročnost 10h/týden.
-## Byznys Developer
+Ideální kandidát umí programovat a zároveň má znalosti z medicíny a především zájem o tyto dvě oblasti. Obory jako 
+biomedicínské inženýrství na FBMI, FEL či FIT ČVUT zní jako ty `správné`, ale rozhodně nejsou podmínkou.
+Pozici si v současnosti představujeme na částečný úvazek a jako vhodnou pro studenty. Práce ale máme opravdu hodně, 
+takže se rozhodně nebráníme ani spolupráci na plný úvazek.
 
