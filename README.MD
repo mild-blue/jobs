@@ -29,9 +29,9 @@ ale práce máme hodně, takže se nebráníme ani fulltime.
 ## Biomedicínský vývojář
 ### Náplň práce
 * Kombinace znalostí z programování a (bio)medicíny v souvislosti s:
-    * vývojem mobilních aplikací 
-    * vývojem backendu zdravotnických aplikací
-    * přípravou dat a podkladových materiálů pro vědecké publikace 
+    * vývojem mobilních aplikací;
+    * vývojem backendu zdravotnických aplikací;
+    * přípravou dat a podkladových materiálů pro vědecké publikace.
 
 ### Technologie
 * Python
