@@ -4,8 +4,8 @@ a medicíny (s jedním jsme teď navíc vyhráli [hackathon](https://www.seznamz
 a hromadu práce, kterou už nestíháme. Níže je seznam a stručný popis pracovních pozic, které v současnosti
 poptáváme. Není ale nijak restriktivní, proto se nám ozvěte, i když jste na seznamu tu Vaši pozici nenašli.
 
-HR žvásty o dynamickém kolektivu, motivujícím platovém ohodnocení, firemních benefitech apod. si klidně přečtěte 
-v inzerátech našich konkurentů. O nás se více dozvíte na našem [webu](https://mild.blue/), některé projekty jsou veřejně dostupné 
+Nicneříkající fráze o dynamickém kolektivu, motivujícím platovém ohodnocení, firemních benefitech apod. si klidně přečtěte 
+v inzerátech nějakého korporátu. O nás se více dozvíte na našem [webu](https://mild.blue/), některé projekty jsou veřejně dostupné 
 zde na [Githubu](https://github.com/mild-blue) a případně nám rovnou napište na [jobs@mild.blue](mailto:jobs@mild.blue). 
 
 ## Frontend developer
@@ -15,7 +15,7 @@ zde na [Githubu](https://github.com/mild-blue) a případně nám rovnou napišt
 * Pomoc s UI/UX.
 
 ### Technologie
-* Anglular
+* Angular
 * Typescript
 * Ionic framework
 * Cokoliv dalšího, co dává smysl (React, Vue, Svelte, …)
