@@ -9,6 +9,7 @@ Nicneříkající fráze o dynamickém kolektivu, motivujícím platovém ohodno
 v inzerátech nějakého korporátu. O nás se více dozvíte na našem [webu](https://mild.blue/), některé projekty jsou veřejně dostupné 
 zde na [Githubu](https://github.com/mild-blue) a případně nám rovnou napište na [jobs@mild.blue](mailto:jobs@mild.blue). 
 
+
 ## Frontend developer
 ### Náplň práce
 * Vývoj frontendové části webových a mobilních aplikací.
@@ -39,9 +40,31 @@ ale práce máme hodně, takže se nebráníme ani fulltime.
 * Ionic framework
 * EKG, zobrazovací metody, imunogenetika
 
+
 ### Koho hledáme
 Ideální kandidát umí programovat a zároveň má znalosti z medicíny a především zájem o tyto dvě oblasti. Obory jako 
 biomedicínské inženýrství na FBMI, FEL či FIT ČVUT zní jako ty `správné`, ale rozhodně nejsou podmínkou.
 Pozici si v současnosti představujeme na částečný úvazek a jako vhodnou pro studenty. Ale určitě najdeme dostatek 
 práce i pro seniory na plný úvazek.
 
+## Backend developer
+### Náplň práce
+* Vývoj backendových částí aplikací pro medicínu.
+* Aplikace metod AI a strojového učení.
+* Adekvátní množství devops a engineeringu obecně.
+* Agile development.
+
+### Technologie
+* Python
+* Kotlin
+* Postgres  
+* Docker, Kubernetes
+* Computer Vision, neuronové sítě, klasifikátory
+* Pravděpodobně brzy spoustu dalšího
+
+### Koho hledáme
+Vývoj backendu je hlavní náplní naší práce, a proto na tuhle pozici hledáme klidně několik lidí. Náš 
+tým je aktuálně tvořen čtyřmi seniorními vývojáři a rádi jej rozšíříme o dalšího seniora, ideálně šikovnějšího 
+než my. Máme ale prostor i pro juniory, kteří mají ochotu učit se a posouvat se dál. Klidně i pro studenty a na částečný 
+úvazek. Určitá minimální úroveň programování je nutná, praxe a zkušenosti rozhodně výhodou, stejně jako znalosti AI a 
+strojového učení.
