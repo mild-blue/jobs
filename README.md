@@ -17,12 +17,12 @@ zde na [Githubu](https://github.com/mild-blue) a případně nám rovnou napišt
 
 ### Technologie
 * Angular
-* Typescript
+* Type Script
 * Ionic framework
 * Cokoliv dalšího, co dává smysl (React, Vue, Svelte, …)
 
 ### Koho hledáme
-Tahle pozice není vhodná pro úplného juniora, ale jinak nemá žádná omezení. Očekáváme, že začnete nejdříve na částečný úvazek, 
+Pozice není vhodná pro úplného juniora, ale jinak nemá žádná omezení. Očekáváme spíš částečný úvazek, 
 ale práce máme hodně, takže se nebráníme ani fulltime.
   
 
@@ -42,6 +42,6 @@ ale práce máme hodně, takže se nebráníme ani fulltime.
 ### Koho hledáme
 Ideální kandidát umí programovat a zároveň má znalosti z medicíny a především zájem o tyto dvě oblasti. Obory jako 
 biomedicínské inženýrství na FBMI, FEL či FIT ČVUT zní jako ty `správné`, ale rozhodně nejsou podmínkou.
-Pozici si v současnosti představujeme na částečný úvazek a jako vhodnou pro studenty. Práce ale máme opravdu hodně, 
-takže se rozhodně nebráníme ani spolupráci na plný úvazek.
+Pozici si v současnosti představujeme na částečný úvazek a jako vhodnou pro studenty. Ale určitě najdeme dostatek 
+práce i pro seniory na plný úvazek.
 
