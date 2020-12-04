@@ -17,7 +17,7 @@ zde na [Githubu](https://github.com/mild-blue) a případně nám rovnou napišt
 
 ### Technologie
 * Angular
-* Typescript
+* Type Script
 * Ionic framework
 * Cokoliv dalšího, co dává smysl (React, Vue, Svelte, …)
 
