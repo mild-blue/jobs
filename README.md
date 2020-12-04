@@ -75,10 +75,10 @@ strojového učení.
 
 ## Project manager junior
 ### Náplň práce
-* Zaštítění neprogramovací části našich projektů
-* Podpora týmu vývojářů, komunikace s klienty, subdodavateli, úřady
-* Zajištění administrativy a podpůrných činností
-* Přímá spolupráce s CEO
+* Zaštítění neprogramovací části našich projektů.
+* Podpora týmu vývojářů, komunikace s klienty, subdodavateli, úřady.
+* Zajištění administrativy a podpůrných činností.
+* Přímá spolupráce s CEO.
 
 ### Koho hledáme
 S rostoucí velikostí našich projektů a jejich počtem roste i množství neprogramovacích činností s nimi spojených. Je to 
@@ -91,3 +91,20 @@ poměrně velkou kreativitu, schopnost rozhodovat se a vymýšlet neobvyklá ře
 Naše představa je začít spolupráci na částečný úvazek, pracovní náplň postupně vyprofilovat podle reálné situace a 
 časem samozřejmě přejít na plný úvazek. Obecně si dovedeme představit poměrně široké spektrum vhodných kandidátů a 
 přizpůsobit pozici tak, abychom maximalizovali průnik našich požadavků a Vašich dovedností.
+
+
+## Byznys Development / Marketing
+### Náplň práce
+* Prezentace společnosti navenek.
+* Příprava propagačních materiálů. 
+* Tvorba obsahu na web a blog, copywriting.
+* Správa sociálních sítí, komunikace s klienty a obchodními partnery.
+* Vyhledávání nových obchodních příležitostí.
+
+### Koho hledáme
+Tvoříme spoustu skvělých projektů, které mají reálný dopad na zlepšení kvality života i velký komerční potenciál. Jak to 
+ale u programátorů bývá, občas máme problém s tím, jak naše výsledky prezentovat, vysvětlit potenciálním klientům, 
+zkrátka jak se prodat. Hledáme tedy někoho, kdo nám s tím pomůže. Z našeho pohledu není tak důležité vzdělání ve 
+`správném` oboru, roky zkušeností nebo doporučující dopisy. Spíš potřebujeme někoho, kdo se dokáže nadchnout pro 
+stejnou věc jako my, kdo má tah na branku, pomůže nám s vytvořením té správné strategie a zajistí její 
+realizaci. Kreativitě se meze nekladou.
