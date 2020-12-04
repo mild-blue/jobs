@@ -83,10 +83,10 @@ strojového učení.
 ### Koho hledáme
 S rostoucí velikostí našich projektů a jejich počtem roste i množství neprogramovacích činností s nimi spojených. Je to 
 vedení týmu, hlídání termínů, prioritizace úkolů, komunikace se zákazníky, ale také zajištění administrativy, daňové a 
-účetní záležitosti, objednávky, fakturace a celá řada drobností. Řada úkolů by mohla odpovídat i popisu `sekretářka` a 
-je možné, že se tato pozice vyvine tímto směrem. Na druhou stranu, dosud valnou většinu všech těchto věcí dělá CEO 
-(ano, jsme malá firma) a celá řada z nich vyžaduje poměrně velkou kreativitu, schopnost rozhodovat se a vymýšlet 
-neobvyklá řešení.
+účetní záležitosti, objednávky, fakturace, správa sociálních sítí a celá řada dalších drobností. 
+Část úkolů by mohla odpovídat i popisu `sekretářka` a je možné, že se tato pozice vyvine tímto směrem. 
+Na druhou stranu, dosud valnou většinu všech těchto věcí dělá CEO (ano, jsme malá firma) a celá řada z nich vyžaduje 
+poměrně velkou kreativitu, schopnost rozhodovat se a vymýšlet neobvyklá řešení.
 
 Naše představa je začít spolupráci na částečný úvazek, pracovní náplň postupně vyprofilovat podle reálné situace a 
 časem samozřejmě přejít na plný úvazek. Obecně si dovedeme představit poměrně široké spektrum vhodných kandidátů a 
