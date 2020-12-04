@@ -3,7 +3,10 @@
 Jsme startup zaměřený na vývoj chytrých řešení ve zdravotnictví. Máme několik projektů na pomezí umělé inteligence 
 a medicíny (s jedním jsme teď navíc vyhráli [hackathon](https://www.seznamzpravy.cz/clanek/uz-zadni-heparinovi-vrazi-vyvojari-dali-kalkulacku-leku-do-mobilu-130797))
 a hromadu práce, kterou už nestíháme. Níže je seznam a stručný popis pracovních pozic, které v současnosti
-poptáváme. Není ale nijak restriktivní, proto se nám ozvěte, i když jste na seznamu tu Vaši pozici nenašli.
+poptáváme. U každé pozice je stručný popis činnosti i typ člověka, kterého asi hledáme. Z obecných předpokladů určitě 
+chceme přiměřenou znalost angličtiny (neboť spolupracujeme i se zahraničními subjekty) a především abychom si lidsky 
+sedli. To ale stejně nelze poznat dřív než při osobním (nebo v dnešní době alespoň online) setkání, proto se nám 
+ozvěte, i když jste na seznamu tu Vaši pozici nenašli.
 
 Nicneříkající fráze o dynamickém kolektivu, motivujícím platovém ohodnocení, firemních benefitech apod. si klidně přečtěte 
 v inzerátech nějakého korporátu. O nás se více dozvíte na našem [webu](https://mild.blue/), některé projekty jsou veřejně dostupné 
@@ -68,3 +71,23 @@ tým je aktuálně tvořen čtyřmi seniorními vývojáři a rádi jej rozší�
 než my. Máme ale prostor i pro juniory, kteří mají ochotu učit se a posouvat se dál. Klidně i pro studenty a na částečný 
 úvazek. Určitá minimální úroveň programování je nutná, praxe a zkušenosti rozhodně výhodou, stejně jako znalosti AI a 
 strojového učení.
+
+
+## Project manager junior
+### Náplň práce
+* Zaštítění neprogramovací části našich projektů
+* Podpora týmu vývojářů, komunikace s klienty, subdodavateli, úřady
+* Zajištění administrativy a podpůrných činností
+* Přímá spolupráce s CEO
+
+### Koho hledáme
+S rostoucí velikostí našich projektů a jejich počtem roste i množství neprogramovacích činností s nimi spojených. Je to 
+vedení týmu, hlídání termínů, prioritizace úkolů, komunikace se zákazníky, ale také zajištění administrativy, daňové a 
+účetní záležitosti, objednávky, fakturace a celá řada drobností. Řada úkolů by mohla odpovídat i popisu `sekretářka` a 
+je možné, že se tato pozice vyvine tímto směrem. Na druhou stranu, dosud valnou většinu všech těchto věcí dělá CEO 
+(ano, jsme malá firma) a celá řada z nich vyžaduje poměrně velkou kreativitu, schopnost rozhodovat se a vymýšlet 
+neobvyklá řešení.
+
+Naše představa je začít spolupráci na částečný úvazek, pracovní náplň postupně vyprofilovat podle reálné situace a 
+časem samozřejmě přejít na plný úvazek. Obecně si dovedeme představit poměrně široké spektrum vhodných kandidátů a 
+přizpůsobit pozici tak, abychom maximalizovali průnik našich požadavků a Vašich dovedností.
