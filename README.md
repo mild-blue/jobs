@@ -12,7 +12,7 @@ a především abychom si lidsky sedli. To ale stejně nelze poznat dřív než 
 setkání, proto se nám ozvěte, i když jste na seznamu tu Vaši pozici nenašli.
 
 Nicneříkající fráze o dynamickém kolektivu, motivujícím platovém ohodnocení, firemních benefitech apod. si klidně přečtěte 
-v inzerátech nějakého korporátu. O nás se více dozvíte na našem [webu](https://mild.blue/), některé projekty jsou veřejně dostupné 
+v inzerátech nějakého korporátu. O nás se více dozvíte na našem [webu](https://mild.blue), některé projekty jsou veřejně dostupné 
 zde na [Githubu](https://github.com/mild-blue) a případně nám rovnou napište na [jobs@mild.blue](mailto:jobs@mild.blue). 
 
 
@@ -24,7 +24,7 @@ zde na [Githubu](https://github.com/mild-blue) a případně nám rovnou napišt
 
 ### Technologie
 * Angular
-* Type Script
+* TypeScript
 * Ionic framework
 * Cokoliv dalšího, co dává smysl (React, Vue, Svelte, …)
 
