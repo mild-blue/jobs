@@ -15,6 +15,7 @@ Nicneříkající fráze o dynamickém kolektivu, motivujícím platovém ohodno
 v inzerátech nějakého korporátu. O nás se více dozvíte na našem [webu](https://mild.blue), některé projekty jsou veřejně dostupné 
 zde na [Githubu](https://github.com/mild-blue) a případně nám rovnou napište na [jobs@mild.blue](mailto:jobs@mild.blue). 
 
+Všechny pozice jsou v současné chvíli kompletně remote, nicméně v blízké budoucnosti plánujeme mít kanceláře v Praze. 
 
 ## Frontend developer
 ### Náplň práce
