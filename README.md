@@ -76,30 +76,3 @@ než my. Máme ale prostor i pro juniory, kteří mají ochotu učit se a posouv
 úvazek. Určitá minimální úroveň programování je nutná, praxe a zkušenosti rozhodně výhodou, stejně jako znalosti AI a 
 strojového učení.
 
-
-## Marketing / HR / Administrativa
-### Náplň práce
-* Zaštítění neprogramovací části našich projektů.
-* Správa sociálních sítí.
-* Příprava propagačních materiálů.
-* Podpora týmu vývojářů, komunikace s klienty, subdodavateli, úřady.
-* Tvorba obsahu na web a blog, copywriting.
-* Zajištění administrativy a podpůrných činností.
-* Přímá spolupráce s CEO.
-
-### Koho hledáme
-S rostoucí velikostí našich projektů a jejich počtem roste i množství neprogramovacích činností s nimi spojených. Na jedné
-straně je to hlídání termínů, komunikace se zákazníky, zajištění administrativy, daňové a účetní záležitosti, objednávky, 
-fakturace a celá řada dalších drobností. Na straně druhé pak prezentace našich výsledků i společnosti jako takové navenek, 
-tedy například správa sociálních sítí, tvorba marketinových materiálů, reprezentace společnosti vůči potenciálním klientům 
-či zaměstnancům, tvorba obsahu webu/blogu, vyhledávání nových obchodních příležitostí.
-
-Část úkolů by mohla odpovídat i popisu `sekretářka`, ale asi nechceme někoho, kdo bude jenom vařit kafe (konec konců, stejně 
-zatím nemáme kanceláře, kde by toto bylo možné). Přeci jen dosud valnou většinu všech těchto věcí dělá CEO 
-(ano, jsme malá firma) a celá řada z nich vyžaduje poměrně velkou kreativitu, schopnost rozhodovat se a vymýšlet neobvyklá řešení.
-
-Naše představa je začít spolupráci na částečný úvazek, pracovní náplň postupně vyprofilovat podle reálné situace a 
-časem samozřejmě přejít na plný úvazek, nicméně není to podmínkou. Klidně lze rovnou začít na fulltime. Obecně si 
-dovedeme představit poměrně široké spektrum vhodných kandidátů a přizpůsobit pozici tak, abychom maximalizovali průnik
-našich požadavků a Vašich dovedností.
-
