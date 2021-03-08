@@ -38,4 +38,47 @@ Všechny pozice jsou v současné chvíli kompletně remote, nicméně v blízk�
 
 Pozice není vhodná pro úplného juniora, ale jinak nemá žádná omezení. Očekáváme spíš částečný úvazek, ale práce máme
 hodně, takže se nebráníme ani fulltime.
-  
+
+## Backend developer
+
+### Náplň práce
+
+* Vývoj backendových částí aplikací pro medicínu.
+* Aplikace metod AI a strojového učení.
+* Adekvátní množství devops a engineeringu obecně.
+* Agile development.
+
+### Technologie
+
+* Kotlin
+* Python
+* Postgres
+* Docker, Kubernetes
+* Computer Vision, neuronové sítě, klasifikátory
+* Pravděpodobně brzy spoustu dalšího
+
+### Koho hledáme
+
+Vývoj backendu je hlavní náplní naší práce, a proto na tuhle pozici hledáme klidně několik lidí. Náš tým je aktuálně
+tvořen šesti vývojáři s převahou seniorů a rádi jej rozšíříme o dalšího seniora, ideálně šikovnějšího než my. Máme ale
+prostor i pro juniory, kteří mají ochotu učit se a posouvat se dál. Klidně i pro studenty a na částečný úvazek. Určitá
+minimální úroveň programování je nutná, praxe a zkušenosti rozhodně výhodou, stejně jako znalosti AI a strojového učení.
+
+## Byznys Development / Marketing
+
+### Náplň práce
+
+* Prezentace společnosti navenek.
+* Vyhledávání nových obchodních příležitostí.
+* Komunikace s klienty a obchodními partnery.
+* Příprava propagačních materiálů.
+* Tvorba obsahu na web a blog, copywriting.
+
+### Koho hledáme
+
+Tvoříme spoustu skvělých projektů, které mají reálný dopad na zlepšení kvality života i velký komerční potenciál. Jak to
+ale u programátorů bývá, občas máme problém s tím, jak naše výsledky prezentovat, vysvětlit potenciálním klientům,
+zkrátka jak se prodat. Hledáme tedy někoho, kdo nám s tím pomůže. Z našeho pohledu není tak důležité vzdělání ve
+`správném` oboru, roky zkušeností nebo doporučující dopisy. Spíš potřebujeme někoho, kdo se dokáže nadchnout pro stejnou
+věc jako my, kdo má tah na branku, pomůže nám s vytvořením té správné strategie a zajistí její realizaci. Kreativitě se
+meze nekladou.
